@@ -1,0 +1,8 @@
+example.com
+google.com
+nonexistingdomain.xyz
+yahoo.com
+microsoft.com
+facebook.com
+apple.com
+openai.com
